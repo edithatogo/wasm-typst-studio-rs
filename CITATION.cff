@@ -1,0 +1,11 @@
+# Citation File Format: https://citation-file-format.github.io/
+cff-version: 1.2.0
+message: If you use this software, please cite it using this metadata and record the commit
+  or release used.
+title: Typst Studio WASM
+authors:
+- family-names: dio
+repository-code: https://github.com/edithatogo/wasm-typst-studio-rs
+url: https://github.com/edithatogo/wasm-typst-studio-rs
+abstract: This repository is a fork of automataIA/wasm-typst-studio-rs. The upstream project
+  retains its authorship and attribution. Cite the exact repository revision used.
